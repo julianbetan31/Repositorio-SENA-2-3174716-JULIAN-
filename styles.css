@@ -15,7 +15,7 @@ body{
 
 /* estilos para el cabezado con degrado*/
 .site-header{
-    background: linear-gradient(90deg, #97f87c, #ed532c);
+    background: linear-gradient(90deg, #0c2ce0, #df103244);
     color: rgb(23, 23, 23);
     padding: 2rem;
     text-align: center;
@@ -33,7 +33,7 @@ body{
 }
 
 .card{
-    background: #c8e6c0;
+    background: #4b470d;
     padding: 1.25rem;
     border-radius: 12px;
     box-shadow: 0.6px 18px rgb(143, 189, 154); /* darle profuncidad a la tarjeta*/
@@ -46,7 +46,7 @@ body{
 
 .card p{
     margin-bottom: 1rem;
-    color: rgb(49, 53, 53);
+    color: rgb(15, 17, 17);
 }
 
 .btn{
