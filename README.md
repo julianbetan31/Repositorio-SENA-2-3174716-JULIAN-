@@ -1,4 +1,4 @@
-﻿# html_Julian 
+﻿# html_JULIAN 
 # mi proyecto ejemplo <!-- # para colocar un titulo-->
 este proyecto se genero para implementar una pagina con html y css y repositorio en githug <!--descripcion corta del repositorio-->
 
@@ -25,7 +25,8 @@ las contribuciones son bienvenidad, si desea participar
 3. realiza los cambios y envia un pull request 
  
  ## licencia 
- este proyecto esta bajo la lincencia MIT
+ este proyecto esta bajo la lincencia MIT 
 
  ## seccion repo remoto
  
+
